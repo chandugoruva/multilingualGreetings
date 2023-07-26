@@ -1,0 +1,40 @@
+.main-div {
+  background-color: #ffffff;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+.heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.button {
+  background-color: #ffffff;
+  color: #db1c48;
+  height: 26px;
+  width: 60px;
+  border: 2px #db1c48 solid;
+  border-radius: 16px;
+}
+.clicked-button {
+  background-color: #db1c48;
+  color: #ffffff;
+  height: 26px;
+  width: 60px;
+  border: 2px #db1c48 solid;
+  border-radius: 16px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  height: 236px;
+}

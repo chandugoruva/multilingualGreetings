@@ -1,0 +1,22 @@
+.button {
+  background-color: #ffffff;
+  color: #db1c48;
+  height: 26px;
+  width: 60px;
+  border: 2px #db1c48 solid;
+  border-radius: 16px;
+  margin-right: 20px;
+}
+.clicked-button {
+  background-color: #db1c48;
+  color: #ffffff;
+  height: 26px;
+  width: 60px;
+  border: 2px #db1c48 solid;
+  border-radius: 16px;
+  margin-right: 20px;
+}
+
+.li {
+  list-style-type: none;
+}
